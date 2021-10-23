@@ -1,5 +1,7 @@
 # 16S Vertebrate Reference Set For The RDP Classifier 
 
+[![DOI](https://zenodo.org/badge/420446891.svg)](https://zenodo.org/badge/latestdoi/420446891)  
+
 This repository contains trained reference sets that can be used with the Ribosomal Database Project classifier (Wang et al., 2007) to taxonomically assign vertebrate 16S mitochondrial gene sequences.  The latest releases can be downloaded from https://github.com/terrimporter/16SvertebrateClassifier/releases
 
 This classifier is suitable for classifying vertebrate 16S mitochondrial gene sequences to species rank.  Reference sequences were obtained from the NCBI nucleotide [accessed August 2021].  Taxonomy is based on the NCBI taxonomy database.
