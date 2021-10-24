@@ -40,7 +40,7 @@ These files were used to train the RDP Classifier.  Provided here for reference 
 
 #### Bootstrap support cutoffs, 99% accuracy:
 
-Rank | 500 bp+ | 400 bp | 300 bp | 200 bp | 100 bp
+Rank | Full | 400 bp | 300 bp | 200 bp | 100 bp
 --- |:---:|:---:|:---:|:---:|:---:
 Superkingdom | 0 | 0 | 0 | 0 | 0
 Kingdom | 0 | 0 | 0 | 0 | 0
