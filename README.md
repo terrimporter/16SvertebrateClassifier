@@ -44,8 +44,8 @@ Superkingdom | 0 | 0 | 0 | 0 | 0
 Kingdom | 0 | 0 | 0 | 0 | 0
 Phylum | 0 | 0 | 0 | 0 | 0
 Class | 0 | 0 | 0 | 0 | 0 
-Order | 0 | 0 | 0 | 0 | 0 
-Family | 0 | 0.2 | 0.2 | 0.3 | 0 
+Order | 0 | 0 | 0 | 0 | 0.4 
+Family | 0 | 0.2 | 0.2 | 0.3 | 0.6 
 Genus | 0.95 | 0.95 | 0.9 | 0.95 | NA 
 Species * | NA | NA | NA | NA | NA 
 
