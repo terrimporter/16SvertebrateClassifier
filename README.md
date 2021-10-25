@@ -36,8 +36,6 @@ These files were used to train the RDP Classifier.  Provided here for reference 
 
 **Taxonomic assignment results should be filtered according to their bootstrap support values to reduce false positive assignments.**  Cutoffs are based on leave-one-sequence-out testing of non-singleton species. Here we recommend MINIMUM bootstrap cutoffs according to query length and assignment rank.  Assuming your query sequences are represented in the reference set, using the cutoffs presented in the first table below should ensure 99% accuracy.  If you wish to cast a wider net, you can use the following tables below for 95% or 90% accuracy.
 
-*** Testing in progress, these cutoffs are not yet fully validated [October 23/21] ***
-
 #### Bootstrap support cutoffs, 99% accuracy:
 
 Rank | Full | 400 bp | 300 bp | 200 bp | 100 bp
