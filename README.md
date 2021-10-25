@@ -9,7 +9,7 @@ This classifier is suitable for classifying vertebrate 16S mitochondrial gene se
 ## How to cite
 
 You can cite this repository directly:  
-Teresita M. Porter. (2021). terrimporter/12SvertebrateClassifier: 16S Vertebrate Classifier v1.0.0. Zenodo. https://zenodo.org/badge/latestdoi/420446891  
+Porter, T.M. (2021) 16S Vertebrate Classifier v1.0.0. Zenodo. https://zenodo.org/badge/latestdoi/420446891  
 
 If you use this reference set with the RDP classifier please also cite the naive Bayesian classification tool:  
 Wang et al. (2007) Naïve Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy. Applied and Environmental Microbiology, 73: 5261.
