@@ -48,7 +48,7 @@ Phylum | 0 | 0 | 0 | 0 | 0
 Class | 0 | 0 | 0 | 0 | 0 
 Order | 0 | 0 | 0 | 0 | 0 
 Family | 0 | 0.2 | 0.2 | 0.3 | 0 
-Genus | 0 | 0.95 | 0.9 | 0.95 | 0 
+Genus | 0.95 | 0.95 | 0.9 | 0.95 | 0 
 Species * | NA | NA | NA | NA | NA 
 
 NA = No cutoff available will result in 99% correct assignments
@@ -64,7 +64,7 @@ Class | 0 | 0 | 0 | 0 | 0
 Order | 0 | 0 | 0 | 0 | 0 
 Family | 0 | 0 | 0 | 0 | 0 
 Genus | 0 | 0 | 0 | 0.1 | 0 
-Species * | 0 | NA | NA | NA | NA 
+Species * | NA | NA | NA | NA | NA 
 
 NA = No cutoff available will result in 95% correct assignments
 
@@ -79,7 +79,7 @@ Class | 0 | 0 | 0 | 0 | 0
 Order | 0 | 0 | 0 | 0 | 0 
 Family | 0 | 0 | 0 | 0 | 0 
 Genus | 0 | 0 | 0 | 0 | 0 
-Species | 0 | 0.6 | 0.5 | 0.7 | 0  
+Species | 0.4 | 0.6 | 0.5 | 0.7 | 0  
 
 # References
 
